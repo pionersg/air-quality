@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/,/static/css/main.49a46e8c.chunk.css",
+    "main.js": "/,/static/js/main.184e2798.chunk.js",
+    "main.js.map": "/,/static/js/main.184e2798.chunk.js.map",
+    "runtime-main.js": "/,/static/js/runtime-main.9e7adfd2.js",
+    "runtime-main.js.map": "/,/static/js/runtime-main.9e7adfd2.js.map",
+    "static/css/2.e0686c58.chunk.css": "/,/static/css/2.e0686c58.chunk.css",
+    "static/js/2.887a2942.chunk.js": "/,/static/js/2.887a2942.chunk.js",
+    "static/js/2.887a2942.chunk.js.map": "/,/static/js/2.887a2942.chunk.js.map",
+    "index.html": "/,/index.html",
+    "precache-manifest.e61645006cebe0624c627a23ea0d83ad.js": "/,/precache-manifest.e61645006cebe0624c627a23ea0d83ad.js",
+    "service-worker.js": "/,/service-worker.js",
+    "static/css/2.e0686c58.chunk.css.map": "/,/static/css/2.e0686c58.chunk.css.map",
+    "static/css/main.49a46e8c.chunk.css.map": "/,/static/css/main.49a46e8c.chunk.css.map",
+    "static/js/2.887a2942.chunk.js.LICENSE.txt": "/,/static/js/2.887a2942.chunk.js.LICENSE.txt",
+    "static/media/GC_logo.svg": "/,/static/media/GC_logo.0662d9de.svg",
+    "static/media/ITN_logo.svg": "/,/static/media/ITN_logo.2f311a05.svg",
+    "static/media/cityes.jpg": "/,/static/media/cityes.a3fe3aa1.jpg",
+    "static/media/energetics.jpg": "/,/static/media/energetics.1d9ae9e9.jpg",
+    "static/media/energy.jpg": "/,/static/media/energy.17b056bd.jpg",
+    "static/media/HeroBlock.scss": "/,/static/media/hero-bg.b236af76.jpg",
+    "static/media/industry.jpg": "/,/static/media/industry.3d66b58c.jpg",
+    "static/media/logo.svg": "/,/static/media/logo.5d5d9eef.svg",
+    "static/media/rubbish.jpg": "/,/static/media/rubbish.8535babf.jpg",
+    "static/media/shid_emozhl_logo.svg": "/,/static/media/shid_emozhl_logo.341a487c.svg",
+    "static/media/slide-1.jpg": "/,/static/media/slide-1.12aa92fe.jpg",
+    "static/media/slide-2.jpg": "/,/static/media/slide-2.b45b30f7.jpg",
+    "static/media/slide-3.jpg": "/,/static/media/slide-3.af20b6d3.jpg",
+    "static/media/slide-4.jpg": "/,/static/media/slide-4.101bcc21.jpg",
+    "static/media/slide-5.jpg": "/,/static/media/slide-5.72897be0.jpg",
+    "static/media/transport.jpg": "/,/static/media/transport.fb06d4dd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e7adfd2.js",
+    "static/css/2.e0686c58.chunk.css",
+    "static/js/2.887a2942.chunk.js",
+    "static/css/main.49a46e8c.chunk.css",
+    "static/js/main.184e2798.chunk.js"
+  ]
+}
